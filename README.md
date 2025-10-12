@@ -19,10 +19,16 @@
 
 ### 项目结构
 本项目采用模块化、清晰化的目录设计，每个模型独立成文件夹，便于学习与维护，共分为五个部分：
+
 1：图像分类器 - K-近邻 (K-Nearest Neighbors, K-NN)
+
 2：线性分类器 - Softmax 分类器
+
 3：两层全连接神经网络 (Two-Layer Fully Connected Neural Network)
+
 4：卷积神经网络 (Convolutional Neural Network, CNN) - 简化版
+
 5：循环神经网络 (Recurrent Neural Network, RNN) - 基础版
+
 目前已完成K-NN模型的相关内容，储存到了knn_chapter文件夹，包括核心运行代码、测试代码、测试数据集以及详细说明。
 
